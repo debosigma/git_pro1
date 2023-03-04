@@ -1,0 +1,3 @@
+This is gitfile2.txt edit on newfeature1 branch.
+
+Thanks 
