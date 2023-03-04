@@ -1,3 +1,8 @@
+
 This is a new update to gitfile2.txt.
 
 We are trying to edit this information. Thanks 
+
+This is gitfile2.txt edit on newfeature1 branch.
+
+Thanks 
